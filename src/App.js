@@ -6,7 +6,7 @@ function App() {
       <div className="Window">
         <div className="ProfileBorder">
           <div className="Profile">
-            <div className="ProfileText">
+            <div className="profileName">
               <h1>EartchGaming</h1>
             </div>
           </div>

@@ -3,7 +3,7 @@ import "../App.css";
 
 const Footer = () => (
     <footer className="footer">
-      <p>Built with ♥️ by Code404</p>
+      <p>Built with ♥️ by <a href="https://code404.dev">code404</a></p>
     </footer>
 
 );

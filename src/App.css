@@ -22,8 +22,8 @@ h1 {
 
 .Window {
     background-color: #2d2c4d;
-    width: 27vh;
-    height: 31vh;
+    width: 16vw;
+    height: 40vh;
     border-radius: 50px;
     position: absolute;
     top: 50%;
@@ -46,7 +46,9 @@ h1 {
     margin: auto;
     border-radius: 100%;
     background: url(/src/assets/e.png);
-    background-position: 3420px 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     padding: 40px;
     width: 58%;
     height: 55%;
